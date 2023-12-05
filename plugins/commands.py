@@ -30,7 +30,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton(' 🔰 Add Me To Your Group 🔰', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🔱 Support Group 🔱', url="https://t.me/Deendayal_dhakad_Group"),
+                    InlineKeyboardButton('🔱 Support Group 🔱', url="https://t.me/mcfucker09"),
                     InlineKeyboardButton('🌿 Movie Group 🌿', url='https://t.me/moviesanimerequestt')
                 ],[
                   InlineKeyboardButton('⚜️ Join updates Channel ⚜️', url='https://t.me/moviesanimerequestt')
