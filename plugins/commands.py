@@ -461,7 +461,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton("⚜️ Update Channel ⚜️", url="t.me/Deendayal_dhakad")
+              InlineKeyboardButton("⚜️ Update Channel ⚜️", url="t.me/Godslayerborutoo")
              ],[
               InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
              ]
