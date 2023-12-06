@@ -33,7 +33,7 @@ async def start(client, message):
                     InlineKeyboardButton('🔱 Support Group 🔱', url="https://t.me/mcfucker09"),
                     InlineKeyboardButton('🌿 Movie Group 🌿', url='https://t.me/moviesanimerequest')
                 ],[
-                  InlineKeyboardButton('⚜️ Join updates Channel ⚜️', url='https://t.me/moviesanimerequestt')
+                  InlineKeyboardButton('⚜️ Join updates Channel ⚜️', url='https://t.me/Godslayerborutoo')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup, disable_web_page_preview=True)
@@ -56,7 +56,7 @@ async def start(client, message):
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                  InlineKeyboardButton('⚜️ Join Updates Channel ⚜️', url='https://t.me/moviesanimerequest')
+                  InlineKeyboardButton('⚜️ Join Updates Channel ⚜️', url='https://t.me/Godslayerborutoo')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
