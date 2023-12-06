@@ -213,7 +213,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <b> Size ⚙️: {file_size}
 
-<b> ⚜️ Powered By : <a href=https://t.me/Deendayal_dhakad>[Deendayal_Dhakad]</a></b>"""
+<b> ⚜️ Powered By : <a href=https://t.me/hjsos9xkdn>[Godslayer]</a></b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
