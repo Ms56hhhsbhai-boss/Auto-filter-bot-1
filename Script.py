@@ -676,9 +676,9 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Sorry_Sorry_Galti_Ho_Gai'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Borutootsutsukii'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
 
--Dev 2 <a href='https://t.me/Borutootsutsukii'>Deendayal dhakad</a>
+-Dev 2 <a href='https://t.me/Borutootsutsukii'>Team Godslayer</a>
 
 -Dev 3 <a href='https://t.me/opabhi0'>Jᴏᴇʟ </> TɢX</a>
 
